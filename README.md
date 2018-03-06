@@ -1,6 +1,6 @@
 # Creditor
 
-A HTTP server that makes real-time default risk predictions based on multiple versions of a Logistic Regression model.
+A HTTP server that makes real-time default risk predictions based on multiple versions of a (dummy) Logistic Regression model.
 
 ## Overview
 
